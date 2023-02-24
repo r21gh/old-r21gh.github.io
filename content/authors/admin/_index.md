@@ -1,7 +1,6 @@
 ---
 # Display name
-<!-- title: Reza -->
-<!-- name_pronunciation: Wu En da -->
+
 
 # Is this the primary user of the site?
 superuser: true
@@ -13,10 +12,6 @@ role: ''
 status:
   icon: ☕️
 
-# Organizations/Affiliations
-#organizations:
-#- name: 腾讯
-#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
@@ -28,31 +23,21 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'ghanbari.reza94@gmail.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/spacex/
-  - icon: weibo
-    icon_pack: fab
-    link: ttps://weibo.com/p/1008088f0ff813c3676d81a04a616ba555af0c/super_index
-  - icon: tiktok
-    icon_pack: fab
-    link: https://www.tiktok.com/@spacex.to.mars
+    link: https://twitter.com/r21gh
   - icon: orcid
     icon_pack: fab
-    link: https://orcid.org/0000-0001-5547-3196
+    link: https://orcid.org/0000-0003-4881-7995
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/r21gh
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=DsVeq5UAAAAJ&hl=en
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf`
-  - icon: file-pdf
-    icon_pack: fas
-    label: View Resume
-    link: uploads/resume.pdf
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
