@@ -23,7 +23,7 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'ghanbari.reza94@gmail.com'
+    link: 'mailto:ghanbari.reza94@gmail.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/r21gh
