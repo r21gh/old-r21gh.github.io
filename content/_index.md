@@ -10,7 +10,7 @@ sections:
       username: admin
       text: |-
         👋 Hi, there! I'm **Reza Ghanbari**, a Cyber Security PhD Student and an SRE Engineer.
-        {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+        {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right,#FFFFFF 0%,#FFFFFF 30%,#FFFFFF 60%,#FFFFFF 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
     design:
       background:
         color: black
