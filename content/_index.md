@@ -9,7 +9,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: |-
-        👋 Hi, there! I'm **Reza Ghanbari**, a Cyber Security PhD Student and an SRE Engineer.
+        Hi, there! I'm **Reza Ghanbari**, a Cyber Security PhD Student and an SRE Engineer.
         {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right,#FFFFFF 0%,#FFFFFF 30%,#FFFFFF 60%,#FFFFFF 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
     design:
       background:
